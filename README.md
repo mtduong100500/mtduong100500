@@ -1,4 +1,4 @@
-### Hi there, I'm Duong - aka [Kira Coding] 👋
+### Hi there, I'm Duong 👋
 ## I'm a third-year college student major in Computer Science
 
 - 🌱 I’m currently learning everything 🤣
