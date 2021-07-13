@@ -1,9 +1,9 @@
 ### Hi there, I'm Duong 👋
 ## I'm a third-year college student major in Computer Science
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Become a better problem solver 
-- ⚡ Hobbies: I love to listen to music and playing video games
+- 🌱 I’m currently learning IOS Development
+- 🥅 2021 Goals: Become a IOS Dev 
+- ⚡ Hobbies: I love to listen to music, watching movies and playing video games
 
 ### Spotify Playing 🎧
 
